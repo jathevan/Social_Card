@@ -13,6 +13,7 @@
     "@material-ui/icons": "^4.11.2",
     "gh-pages": "^2.1.1",
     "install": "^0.13.0",
+    "lowdb": "^1.0.0",
     "mdbreact": "^5.0.1",
     "npm": "^7.6.3",
     "react": "^16.9.0",
