@@ -17,3 +17,9 @@ b. faker
 
 
 #Jathevan
+
+I used react "react-profile-card" for UI design.
+FYI : https://www.npmjs.com/package/react-profile-card
+
+According to my requirement I modified that library.
+Get the modified libary  from /modified_libraries/react-profile-card & replace the react-profile-card folder in node_modules

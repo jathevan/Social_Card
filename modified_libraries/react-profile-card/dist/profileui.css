@@ -1,0 +1,110 @@
+.box {
+    background: linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%);
+    border-radius: 5px;
+    color:white;
+    padding: 0px;
+    height: 190px;
+    width: 250px;
+    box-shadow: 0 3px 5px 2px rgba(255, 105, 135, .3);
+    text-align: center;
+    transition: 0.3s;
+}
+
+
+
+.box2 {
+    background: linear-gradient( 
+        131deg
+         , #fe6b8bb8 30%, #FF8E53 90%);
+            border-radius: 4%;
+            color: white;
+            padding: 0px;
+            height: 50%;
+            /* width: 90%; */
+            box-shadow: 0 3px 5px 2px rgb(255 105 135 / 30%);
+            text-align: right;
+            transition: 0.3s;
+}
+
+.box:hover {
+    background: linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%);
+    border-radius: 5px;
+    color:white;
+    height: 250px;
+    width: 250px;
+    box-shadow: 0 3px 5px 2px rgba(255, 105, 135, .3);
+}
+
+.img-box {
+    height: 190px;
+    width: 190px;
+    top:-80px;
+    object-fit: cover;
+    border-radius: 6px;
+    /* border: 1px solid black;  */
+    box-shadow: 0 3px 5px 2px rgba(255, 142, 164, 0.3);
+    position: relative;
+    background-color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.content-box{
+
+    background-color: white;
+    border-bottom-right-radius: 4%;
+    border-top-right-radius: 4%;
+    table-layout:fixed;
+}
+.img-box2 {
+    height: 145px;
+    width: 70%;
+    /* top: 119px; */
+    object-fit: cover;
+    border-radius: 50%;
+    border: 1px solid #1a1919;
+    box-shadow: 0 3px 5px 2px rgb(255 142 164 / 30%);
+    position: relative;
+    background-color: white;
+    display: block;
+    margin-right: 65%;
+    margin-left: 7%;
+}
+
+.img-box-style{
+    width: 50%;
+    padding-left: 36px;
+    border-bottom-left-radius: 8%;
+    border-top-left-radius: 8%;
+   
+    background: linear-gradient( 
+        131deg
+         , #fe6b8b94 30%, #ff8e53c4 90%);
+}
+.prof-container {
+    margin: 10px;
+    width: -moz-fit-content;
+    width: fit-content;
+    padding-top: 2%;
+    
+}
+.name{
+    margin-top: 0px;
+    /* margin-bottom: 0px; */
+    
+    font-size: 27px;
+    margin-bottom: 0px;
+    width: 20%;
+}
+.des {
+   
+    font-size: 13px;
+   
+   
+}
+
+.td-icon{
+    /* border-bottom: 1px solid #dedede; */
+    text-align: left;
+}
