@@ -1,8 +1,9 @@
 {
-    "Post": {
-      "title": "string",
-      "views": "int",
-      "published": "boolean",
-      "createdAt": "date"
+    "users": {
+      "id": "string",
+      "firstName": "string",
+      "lastName": "string",
+      "age": "int"
+     
     }
   }
