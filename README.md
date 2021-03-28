@@ -23,3 +23,9 @@ FYI : https://www.npmjs.com/package/react-profile-card
 
 According to my requirement I modified that library.
 Get the modified libary  from /modified_libraries/react-profile-card & replace the react-profile-card folder in node_modules
+
+Use below link for API calls 
+https://my-json-server.typicode.com/jathevan/Social_Card
+
+I used  JSON Placholder for API integration with Github
+https://jsonplaceholder.typicode.com/
