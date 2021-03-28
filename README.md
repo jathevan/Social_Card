@@ -26,6 +26,8 @@ Get the modified libary  from /modified_libraries/react-profile-card & replace t
 
 Use below link for API calls 
 https://my-json-server.typicode.com/jathevan/Social_Card
+User records(API) : https://my-json-server.typicode.com/jathevan/Social_Card/users
+
 
 I used  JSON Placholder for API integration with Github
 https://jsonplaceholder.typicode.com/
