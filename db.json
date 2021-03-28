@@ -2,18 +2,124 @@
 
   "users":[
     {
-      "id":"1",
-      "firstName":"John",
-      "lastName":"wick",
-      "age":33
-
+      "id": 1,
+      "name": "Shibu",
+      "emailAddress": "Shibu@gmail.com",
+      "address": "lvl 6, 338 Pitt Street Sydney NSW 2000 Australia",
+      "phoneNumber": "+61 477 572 222",
+      "website": "https://www.bigtincan.com/"
     },
     {
-      "id":"2",
-      "firstName":"Tony",
-      "lastName":"Stark",
-      "age":22
-
+      "id": 2,
+      "name": "Wick",
+      "emailAddress": "Wick@gmail.com",
+      "address": "lvl 6, 338 Pitt Street Sydney NSW 2000 Australia",
+      "phoneNumber": "+61 477 572 222",
+      "website": "https://www.bigtincan.com/"
+    },
+    {
+      "id": 3,
+      "name": "Smith",
+      "emailAddress": "Smith@gmail.com",
+      "address": "lvl 6, 338 Pitt Street Sydney NSW 2000 Australia",
+      "phoneNumber": "+61 477 572 222",
+      "website": "https://www.bigtincan.com/"
+    },
+    {
+      "id": 4,
+      "name": "Andrew",
+      "emailAddress": "Andrew@gmail.com",
+      "address": "lvl 6, 338 Pitt Street Sydney NSW 2000 Australia",
+      "phoneNumber": "+61 477 572 222",
+      "website": "https://www.bigtincan.com/"
+    },
+    {
+      "id": 5,
+      "name": "Bobe",
+      "emailAddress": "Bobe@gmail.com",
+      "address": "lvl 6, 338 Pitt Street Sydney NSW 2000 Australia",
+      "phoneNumber": "+61 477 572 222",
+      "website": "https://www.bigtincan.com/"
+    },
+    {
+      "id": 6,
+      "name": "Cena",
+      "emailAddress": "Cena@gmail.com",
+      "address": "lvl 6, 338 Pitt Street Sydney NSW 2000 Australia",
+      "phoneNumber": "+61 477 572 222",
+      "website": "https://www.bigtincan.com/"
+    },
+    {
+      "id": 7,
+      "name": "Obama",
+      "emailAddress": "Obama@gmail.com",
+      "address": "lvl 6, 338 Pitt Street Sydney NSW 2000 Australia",
+      "phoneNumber": "+61 477 572 222",
+      "website": "https://www.bigtincan.com/"
+    },
+    {
+      "id": 8,
+      "name": "Victor",
+      "emailAddress": "Victor@gmail.com",
+      "address": "lvl 6, 338 Pitt Street Sydney NSW 2000 Australia",
+      "phoneNumber": "+61 477 572 222",
+      "website": "https://www.bigtincan.com/"
+    },
+    {
+      "id": 9,
+      "name": "Sam",
+      "emailAddress": "Sam@gmail.com",
+      "address": "lvl 6, 338 Pitt Street Sydney NSW 2000 Australia",
+      "phoneNumber": "+61 477 572 222",
+      "website": "https://www.bigtincan.com/"
+    },
+    {
+      "id": 10,
+      "name": "Steve",
+      "emailAddress": "Steve@gmail.com",
+      "address": "lvl 6, 338 Pitt Street Sydney NSW 2000 Australia",
+      "phoneNumber": "+61 477 572 222",
+      "website": "https://www.bigtincan.com/"
+    },
+    {
+      "id": 11,
+      "name": "Amal",
+      "emailAddress": "Amal@gmail.com",
+      "address": "lvl 6, 338 Pitt Street Sydney NSW 2000 Australia",
+      "phoneNumber": "+61 477 572 222",
+      "website": "https://www.bigtincan.com/"
+    },
+    {
+      "id": 12,
+      "name": "Ravi",
+      "emailAddress": "Ravi@gmail.com",
+      "address": "lvl 6, 338 Pitt Street Sydney NSW 2000 Australia",
+      "phoneNumber": "+61 477 572 222",
+      "website": "https://www.bigtincan.com/"
+    },
+    {
+      "id": 13,
+      "name": "John",
+      "emailAddress": "John@gmail.com",
+      "address": "lvl 6, 338 Pitt Street Sydney NSW 2000 Australia",
+      "phoneNumber": "+61 477 572 222",
+      "website": "https://www.bigtincan.com/"
+    },
+    {
+      "id": 14,
+      "name": "Vimal",
+      "emailAddress": "Vimal@gmail.com",
+      "address": "lvl 6, 338 Pitt Street Sydney NSW 2000 Australia",
+      "phoneNumber": "+61 477 572 222",
+      "website": "https://www.bigtincan.com/"
+    },
+    {
+      "id": 15,
+      "name": "Jathevan",
+      "emailAddress": "jathevan@gmail.com",
+      "address": "lvl 6, 338 Pitt Street Sydney NSW 2000 Australia",
+      "phoneNumber": "+61 477 572 222",
+      "website": "https://www.bigtincan.com/"
     }
   ]
 }
