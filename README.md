@@ -29,5 +29,5 @@ https://my-json-server.typicode.com/jathevan/Social_Card
 User records(API) : https://my-json-server.typicode.com/jathevan/Social_Card/users
 
 
-I used  JSON Placholder for API integration with Github
+I used  JSONPlaceholder for API integration with Github
 https://jsonplaceholder.typicode.com/
